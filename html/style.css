@@ -11,8 +11,12 @@ body {
     background-color: black;
 }
 
+#actualList {
+    text-align: left;
+}
+
 header {
-    font-weight: bold;
+    font-weight: b2old;
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
 }
