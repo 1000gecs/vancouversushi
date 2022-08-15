@@ -1,0 +1,57 @@
+.mainList {
+    align-content: center;
+    padding-left:45%;
+    padding-top: 25%;
+    background-color: rgb(0, 0, 0); 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+#actualList {
+    text-align: left;
+}
+
+#websiteName {
+    float: left;
+}
+
+header {
+    font-weight: b2old;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+
+.navBar {
+    padding-left: 15%;
+    float:inline-end;
+}
+
+/*LINKS:*/
+ /* unvisited link */
+ a:link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* visited link */
+  a:visited {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    text-decoration: none;
+    color: rgb(0, 255, 247);
+  }
+  
+  /* selected link */
+  a:active {
+    text-decoration: none;
+    color: rgb(234, 255, 0);
+  } 
